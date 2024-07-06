@@ -11,3 +11,7 @@ record my python learning step
 ### alien_invasion
 
 该project是学习python书籍时跟随作者做的小游戏，类似打飞机。使用**pygame**
+
+### learning log
+
+跟随书籍使用**django**框架制作的网站，将部署在我的服务器上
